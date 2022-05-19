@@ -2,3 +2,5 @@ github.com/andhikafajark/golang-say-hello v1.0.0 h1:KDhdhene0Gumln9PCW3PNk7JjyTD
 github.com/andhikafajark/golang-say-hello v1.0.0/go.mod h1:J761wfm0uuirlgIzvcJfBOiVXl5dvGsndSHkDYqU3fo=
 github.com/andhikafajark/golang-say-hello v1.5.0 h1:mCHAPBnNWlHcV3JBPGgijrEvjL0PZ2m4t9sGlx7UO7M=
 github.com/andhikafajark/golang-say-hello v1.5.0/go.mod h1:J761wfm0uuirlgIzvcJfBOiVXl5dvGsndSHkDYqU3fo=
+github.com/andhikafajark/golang-say-hello/v2 v2.0.0 h1:+z+77o80etii2gHGxabunI/7zuV4JTYcehaesgF8bL8=
+github.com/andhikafajark/golang-say-hello/v2 v2.0.0/go.mod h1:bcZnRE48ri44/6Cm73vo1VaC8son/dkv4RbwCzGUVqE=
